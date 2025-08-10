@@ -24,4 +24,5 @@ XCrypto is a cross-platform encryption toolkit providing secure file encryption,
 1. Clone repo
 
 git clone https://github.com/dhruvkumaran/xcrypto.git
+
 cd xcrypto
