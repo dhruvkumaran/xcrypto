@@ -1,0 +1,5 @@
+PySide6
+cryptography
+Pillow
+py7zr
+
